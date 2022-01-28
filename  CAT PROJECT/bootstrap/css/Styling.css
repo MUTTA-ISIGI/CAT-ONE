@@ -1,0 +1,31 @@
+.carousel-inner img{
+    width: 90%;
+    height:90vh ;
+    margin-left: 5%;
+    margin-right: 5% ;
+    margin-top:10px ;
+}
+.top{
+    height: 30vh;
+    text-align: center;
+    padding-top: 5vh;
+    background-color: grey;
+}
+.one{
+    height: 30vh;
+    text-align: center;
+    padding-top: 10vh;
+    padding-bottom: 2vh;
+}
+.bottom{
+    height: 20vh;
+    background-color: white;
+}
+. div button{
+    align-content: center;
+    margin-left: 30vh;
+}
+.jumbo{
+    height: 3vh;
+    padding-top: 2vh;
+}
